@@ -1,3 +1,36 @@
+<div style="
+  background-image: linear-gradient(90deg, rgba(255,255,255,0.4), rgba(0,0,0,0.4), rgba(255,255,255,0.4), rgba(0,0,0,0.4), rgba(255,255,255,0.4), rgba(0,0,0,0.4)); 
+  background-size: cover; 
+  background-position: center; 
+  height: 250px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  border-radius: 8px;
+  margin: 20px;
+">
+  <h1 style="
+    color: white; 
+    margin: 0; 
+    font-family: Metropolis; 
+    font-size: 2.5rem;
+  ">
+    CBRA Digital GmbH
+  </h1>
+</div>
+
+### 💥 BAM - About us
+The current Dev-Team at CBRA Digital GmbH consists of three people. Berni, Andrea and Mirko.
+
+### 🔗 Connect With Us
+
+<p align="left">
+  <a href="https://cbra.digital" target="_blank" rel="noopener noreferrer">Our Homepage</a>
+  </p>
+  <p>
+  <a href="mailto:office@cbra.digital" target="_blank" rel="noopener noreferrer">Write us an E-Mail</a>
+</p>
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -23,11 +56,14 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://cbra.digital" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:office@cbra.digital" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+### 🤝 What and who we support
+<p align="center">
+<a href="https://www.coding4kids.at/" target="_blank">
+<img src="./Coding4Kids-Logo-1c-100K_mit_Schutzraum.png" alt="Verein Coding4Kids" height="50px">
+</a>
+<a href="https://mountainechos.at/" target="_blank">
+<img src="./Logo_Mountain-Echos_v2_weiss-02-300x300.png" alt="Verein Mountain Echoes" height="70px" >
+</a>
 </p>
 
 ### 💭 Dev Quote
