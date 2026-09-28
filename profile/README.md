@@ -1,23 +1,9 @@
-<div style="
-  background-image: linear-gradient(90deg, rgba(255,255,255,0.4), rgba(0,0,0,0.4), rgba(255,255,255,0.4), rgba(0,0,0,0.4), rgba(255,255,255,0.4), rgba(0,0,0,0.4)); 
-  background-size: cover; 
-  background-position: center; 
-  height: 250px; 
-  display: flex; 
-  justify-content: center; 
-  align-items: center;
-  border-radius: 8px;
-  margin: 20px;
-">
-  <h1 style="
-    color: white; 
-    margin: 0; 
-    font-family: Metropolis; 
-    font-size: 2.5rem;
-  ">
-    CBRA Digital GmbH
-  </h1>
-</div>
+<p align="center">
+  <img src="./logo-main.webp" alt="Banner Image" width="100%">
+</p>
+
+# <p align="center">CBRA Digital GmbH</p>
+
 
 ### 💥 BAM - About us
 The current Dev-Team at CBRA Digital GmbH consists of three people. Berni, Andrea and Mirko.
