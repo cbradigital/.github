@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="./logo-main.webp" alt="Banner Image" width="100%">
+  <img src="./logo-main.webp" alt="Banner Image" width="60%">
 </p>
 
 # <p align="center">CBRA Digital GmbH</p>
-
 
 ### 💥 BAM - About us
 The current Dev-Team at CBRA Digital GmbH consists of three people. Berni, Andrea and Mirko.
